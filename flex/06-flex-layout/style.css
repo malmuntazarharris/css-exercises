@@ -30,7 +30,7 @@ input {
 
 a {
   text-decoration: none;
-  color: rgb(71, 67, 67);
+  color: #666;
 }
 
 ul {
@@ -46,7 +46,7 @@ button {
 }
 
 .content {
-  flex: 1 1 auto;
+  flex: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -57,7 +57,7 @@ button {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 8px;
+  padding: 16px;
 }
 
 .footer{
